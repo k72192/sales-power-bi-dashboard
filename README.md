@@ -1,4 +1,4 @@
-# sales-power-bi-dashboard
+# power-bi-sales_dashboard 
 # Mobile Sales Data Analysis
 
 ## Description
@@ -43,10 +43,10 @@ This project provides insights into:
 - Revenue growth and distribution.
 
 ## Contact
-- **Developer**: [Your Name]
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Developer**: kedar dadaso kumbhar
+- **Email**: kumbharkedar5256@gmail.com
+- **GitHub**: [github.com](https://github.com/k72192/k72192.git)
+- **LinkedIn**: [Kedar Kumbhar](https://www.linkedin.com/in/kedar-kumbhar-357286222)
 
 ---
 
